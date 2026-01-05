@@ -1,47 +1,69 @@
-🏏 IPL Analysis (2008–2025) – Power BI Project
-📌 Project Overview
+# 🏏 IPL Analysis (2008–2025) | Power BI Project
 
-This project focuses on an in-depth analysis of Indian Premier League (IPL) data from 2008 to 2025 using Power BI. The dashboard transforms raw cricket data into interactive visual insights, helping users understand team performance, player statistics, season trends, and match outcomes.
+<p align="center">
+  <img src="https://github.com/sanjanakumari477/IPL-Data-Analysis-Using-PowerBI/blob/main/Screenshot.png" alt="IPL Power BI Dashboard" width="900">
+</p>
 
-The project is designed to showcase data analysis, data visualization, and dashboarding skills, making it suitable for portfolios, resumes, and GitHub profiles.
+---
 
-🎯 Objectives
+## 📌 Project Overview
 
-Analyze IPL performance across multiple seasons (2008–2025)
+This project presents an **in-depth analysis of Indian Premier League (IPL) data from 2008 to 2025** using **Power BI**.  
+The interactive dashboard converts raw cricket data into **meaningful visual insights**, enabling users to explore:
 
-Identify top-performing teams and players
+- Team performance  
+- Player statistics  
+- Season-wise trends  
+- Match outcomes  
 
-Visualize match results, points table, and key cricket statistics
+🎯 This project is ideal for **Data Analytics portfolios, resumes, and GitHub profiles**.
 
-Build an interactive and user-friendly Power BI dashboard
+---
 
-📊 Key Insights Covered
+## 🎯 Objectives
 
-Season-wise analysis with dynamic filters
+- Analyze IPL performance across multiple seasons (2008–2025)
+- Identify **top-performing teams and players**
+- Visualize **match results, points tables, and cricket statistics**
+- Build a **user-friendly & interactive Power BI dashboard**
 
-Champions & Runner-up teams overview
+---
 
-Points Table with wins, losses, NR, and total points
+## 📊 Key Insights Covered
 
-Orange Cap & Purple Cap statistics
+✔️ Season-wise analysis with dynamic filters  
+✔️ Champions & Runner-up teams overview  
+✔️ Points Table (Wins, Losses, NR & Total Points)  
+✔️ Orange Cap & Purple Cap statistics  
+✔️ Top 4s & Top 6s hitters  
+✔️ Total Matches, Venues, Teams  
+✔️ Centuries & Half-Centuries  
+✔️ Team & Player performance comparison  
 
-Top 4s & Top 6s hitters
+---
 
-Total matches, venues, teams, centuries, and half-centuries
+## 🛠 Tools & Technologies Used
 
-Team and player performance comparison
+- **Power BI** – Data visualization & dashboard creation  
+- **Excel / CSV** – Data sources  
+- **Power Query** – Data cleaning & transformation  
+- **DAX (Basic)** – Measures & calculations  
 
-🛠 Tools & Technologies Used
+---
 
-Power BI – Data visualization & dashboard creation
+## 📂 Project Highlights
 
-Excel / CSV – Data source
+- Fully **interactive dashboard**
+- Clean & modern UI design
+- Real-world sports analytics use case
+- End-to-end data analysis workflow
 
-Data Cleaning & Transformation – Power Query
+---
 
-DAX (Basic) – Measures & calculations
+## 📧 Contact Information
 
+- **Email:** 📩 *sksanjana1502@gmail.com*  
 
-Contact Info :
+---
 
-Email : sksanjana1502@gmail.com
+⭐ *If you like this project, don’t forget to star the repository!*  
