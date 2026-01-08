@@ -4,6 +4,7 @@
   <img src="https://github.com/sanjanakumari477/IPL-Data-Analysis-Using-PowerBI/blob/main/Screenshot.png" alt="IPL Power BI Dashboard" width="900">
 </p>
 
+
 ---
 
 ## 📌 Project Overview
@@ -62,7 +63,7 @@ The interactive dashboard converts raw cricket data into **meaningful visual ins
 
 ## 📧 Contact Information
 
-- **Email:** 📩 *sksanjana1502@gmail.com*  
+- **Email:** 📩 *sksanjana1502@gmail.com*
 
 ---
 
