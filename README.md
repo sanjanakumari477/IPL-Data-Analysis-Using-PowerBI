@@ -1,5 +1,6 @@
 # 🏏 IPL Analysis (2008–2025) | Power BI Project
 
+
 <p align="center">
   <img src="https://github.com/sanjanakumari477/IPL-Data-Analysis-Using-PowerBI/blob/main/Screenshot.png" alt="IPL Power BI Dashboard" width="900">
 </p>
